@@ -26,7 +26,7 @@ The following **features**  are implemented:
 ## Video Walkthrough 
 
 #### Here's a walkthrough of implemented user stories on an *iPhone*:
-<img src='http://i.imgur.com/W3dAC4d.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/W3dAC4d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
